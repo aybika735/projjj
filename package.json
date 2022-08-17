@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-self-modules-os",
+  "version": "1.0.0",
+  "description": "## Постановка задачи",
+  "main": "welcome.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aybika735/nodejs-self-modules-os.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aybika735/nodejs-self-modules-os/issues"
+  },
+  "homepage": "https://github.com/aybika735/nodejs-self-modules-os#readme"
+}
